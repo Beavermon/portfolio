@@ -4,7 +4,7 @@
 
 </div>
 
-### Built With CSS and HTML & MIT License.
+### Built With CSS, JS and HTML & MIT License.
 
 ## Supported Browsers
 
